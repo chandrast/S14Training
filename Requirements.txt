@@ -1,1 +1,2 @@
 REQ1: Accept Student Details and Show on Console window.
+REQ2: Implement it using windows interface
